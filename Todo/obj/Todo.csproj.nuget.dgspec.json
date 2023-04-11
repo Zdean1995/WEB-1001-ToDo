@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zachary\\source\\repos\\Todo\\Todo\\Todo.csproj": {}
+    "C:\\Users\\Zachary\\source\\repos\\Todo\\ToDo\\Todo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zachary\\source\\repos\\Todo\\Todo\\Todo.csproj": {
+    "C:\\Users\\Zachary\\source\\repos\\Todo\\ToDo\\Todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zachary\\source\\repos\\Todo\\Todo\\Todo.csproj",
+        "projectUniqueName": "C:\\Users\\Zachary\\source\\repos\\Todo\\ToDo\\Todo.csproj",
         "projectName": "Todo",
-        "projectPath": "C:\\Users\\Zachary\\source\\repos\\Todo\\Todo\\Todo.csproj",
+        "projectPath": "C:\\Users\\Zachary\\source\\repos\\Todo\\ToDo\\Todo.csproj",
         "packagesPath": "C:\\Users\\Zachary\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zachary\\source\\repos\\Todo\\Todo\\obj\\",
+        "outputPath": "C:\\Users\\Zachary\\source\\repos\\Todo\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zachary\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[6.0.16, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

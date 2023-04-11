@@ -1,7 +1,10 @@
+using Todo.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSqlite<ToDoContext>("Data Source=ToDo.db");
 
 var app = builder.Build();
 
